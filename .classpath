@@ -7,9 +7,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-compat"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-ui"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-utils"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-annotations"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-arch-lifecycle-livedata-core"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-arch-lifecycle-viewmodel"/>
 	<classpathentry exported="true" kind="lib" path="classes/android-support-fragment.jar" sourcepath="classes/android-support-fragment-sources.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-media-compat"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
